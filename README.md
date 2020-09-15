@@ -12,5 +12,5 @@ Another analysis was conducted to create a table to display the mentorship-eligi
 * There isn't information on how long the mentorship program may take, but it must be done before the end of the year so employees are ready for their new roles
 * It must be decided if employees will move up within the company or if new employees will have to be brought in and trained, which may end up costing the company more money on top of the retirement packages.
 
-![mentor_elig.mb](https://github.com/pratishthasingh1/Pewlett-Hackard-Analysis/blob/master/mentorship_eligibility.csv)
+https://github.com/pratishthasingh1/Pewlett-Hackard-Analysis/blob/master/mentorship_eligibility.csv
 ![dept_count.mb](https://github.com/pratishthasingh1/Pewlett-Hackard-Analysis/blob/master/dept_count.csv)
